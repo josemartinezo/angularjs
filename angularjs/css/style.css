@@ -1,0 +1,9 @@
+body {
+	background-color: lightblue;
+}
+
+div h1, div p{
+	text-align: left;
+	font-family: Arial, sans-serif;
+	color: blue;
+}
